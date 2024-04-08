@@ -291,6 +291,8 @@ button {
             a {
                 text-decoration: none;
                 color: $gray;
+                display: flex;
+                flex-wrap: nowrap;
             }
         }
     }

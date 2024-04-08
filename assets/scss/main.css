@@ -285,6 +285,8 @@ button {
 .footer__intro-subtitle p a {
   text-decoration: none;
   color: #333933;
+  display: flex;
+  flex-wrap: nowrap;
 }
 
 @media screen and (max-width: 1070px) {
